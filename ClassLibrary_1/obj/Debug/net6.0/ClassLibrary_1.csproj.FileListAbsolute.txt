@@ -1,0 +1,14 @@
+C:\Users\gudegitt\Documents\Applications\SKUD\SKUD\ClassLibrary_1\bin\Debug\net6.0\ClassLibrary_1.deps.json
+C:\Users\gudegitt\Documents\Applications\SKUD\SKUD\ClassLibrary_1\bin\Debug\net6.0\ClassLibrary_1.runtimeconfig.json
+C:\Users\gudegitt\Documents\Applications\SKUD\SKUD\ClassLibrary_1\bin\Debug\net6.0\ClassLibrary_1.dll
+C:\Users\gudegitt\Documents\Applications\SKUD\SKUD\ClassLibrary_1\bin\Debug\net6.0\ClassLibrary_1.pdb
+C:\Users\gudegitt\Documents\Applications\SKUD\SKUD\ClassLibrary_1\obj\Debug\net6.0\ClassLibrary_1.csproj.AssemblyReference.cache
+C:\Users\gudegitt\Documents\Applications\SKUD\SKUD\ClassLibrary_1\obj\Debug\net6.0\ClassLibrary_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gudegitt\Documents\Applications\SKUD\SKUD\ClassLibrary_1\obj\Debug\net6.0\ClassLibrary_1.AssemblyInfoInputs.cache
+C:\Users\gudegitt\Documents\Applications\SKUD\SKUD\ClassLibrary_1\obj\Debug\net6.0\ClassLibrary_1.AssemblyInfo.cs
+C:\Users\gudegitt\Documents\Applications\SKUD\SKUD\ClassLibrary_1\obj\Debug\net6.0\ClassLibrary_1.csproj.CoreCompileInputs.cache
+C:\Users\gudegitt\Documents\Applications\SKUD\SKUD\ClassLibrary_1\obj\Debug\net6.0\ClassLibrary_1.dll
+C:\Users\gudegitt\Documents\Applications\SKUD\SKUD\ClassLibrary_1\obj\Debug\net6.0\refint\ClassLibrary_1.dll
+C:\Users\gudegitt\Documents\Applications\SKUD\SKUD\ClassLibrary_1\obj\Debug\net6.0\ClassLibrary_1.pdb
+C:\Users\gudegitt\Documents\Applications\SKUD\SKUD\ClassLibrary_1\obj\Debug\net6.0\ClassLibrary_1.genruntimeconfig.cache
+C:\Users\gudegitt\Documents\Applications\SKUD\SKUD\ClassLibrary_1\obj\Debug\net6.0\ref\ClassLibrary_1.dll

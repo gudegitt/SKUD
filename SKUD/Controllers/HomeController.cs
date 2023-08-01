@@ -15,7 +15,8 @@ namespace SKUD.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            HomeModel _model = new HomeModel() { HelloMassaage = "Hellos" };
+            return View(_model);
         }
 
         public IActionResult Privacy()
