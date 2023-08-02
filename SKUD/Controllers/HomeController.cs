@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using ClassLibrary_1;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using SKUD.Models;
 using System.Diagnostics;
 
@@ -6,17 +8,21 @@ namespace SKUD.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        //private readonly ILogger<HomeController> _logger;
+        private EFDBContext _context;
 
-        public HomeController(ILogger<HomeController> logger)
+        //public HomeController(ILogger<HomeController> logger, EFDBContext context)
+        public HomeController(EFDBContext context)
         {
-            _logger = logger;
+            //_logger = logger;
+            _context = context;
         }
 
         public IActionResult Index()
         {
-            HomeModel _model = new HomeModel() { HelloMassaage = "Hellos" };
-            return View(_model);
+            //HomeModel _model = new HomeModel() { HelloMassaage = "Hellos" };
+            List<ClassLibrary_1.Entityes.Directory> _dirs = _context.Directory.Include(x => x.Materials).ToList();
+            return View(_dirs);
         }
 
         public IActionResult Privacy()
